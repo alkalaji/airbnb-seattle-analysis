@@ -1,6 +1,8 @@
 # Seattle Airbnb dataset analysis
 This repository is for project 1 of Udacity's data science nano degree
 
+The associated blog post can be found [here](https://alkalaji.github.io/Airbnb-Seattle-Data-Analysis/)
+
 ## Introduction
 In this notebook, we look at the data provided by Airbnb for their listings in Seattle. We follow CRISP-DM in order to answer different busines questions.
 
